@@ -32,28 +32,19 @@
 
 ### 📌 Projets principaux
 
-#### 1. **[Globymood](https://globymood.com)** — Plateforme de Découverte Culturelle Alimentée par l'IA
-*Next.js 16 • React 19 • PostgreSQL • API Google Gemini • OSRM/Nominatim*
+#### 1. **[Globymood — Plateforme Live](https://globymood.com)**
 
-Plateforme autonome découvrant les expositions parisiennes avec contenu enrichi par l'IA et recommandations personnalisées.
+Plateforme autonome découvrant les expositions parisiennes (1000+ visiteurs/mois)
 
-**Accomplissements clés:**
-- ✅ **85% complet** avec 40+ endpoints API entièrement fonctionnels
-- ✅ **Système autonome** : S'alimente automatiquement via APIs, enrichit le contenu avec l'IA, zéro intervention humaine
-- ✅ **Fonctionnalités avancées** : Recommandations basées sur la "Météo Émotionnelle", parcours collaboratifs, recommandations de restaurants
-- ✅ **Performance** : ~1 000 visiteurs mensuels (recherche organique uniquement), Lighthouse 94/100
-- ✅ **Architecture** : Services modulaires (DataManager, AIContentGenerator, TransportAPIs, EmotionalWeatherService)
-- ✅ **Cache multi-niveaux** : En mémoire, HTTP, optimisation des requêtes base de données
-- ✅ **Infrastructure** : VPS Linux + PM2, déploiement à coût zéro (APIs gratuites uniquement)
+**Visitez la version en production:** https://globymood.com
 
-**Détails techniques:**
-- Intègre 5+ APIs : "Que Faire à Paris", Tiqets, Open-Meteo, OSRM, Nominatim, Gemini
-- Gestion intelligente des quotas : 40 requêtes Gemini/jour avec allocation stratégique
-- Requêtes géo-spatiales : PostGIS PostgreSQL pour recommandations basées sur la localisation
-- Mécanismes de secours : Système de routage à 3 niveaux garantissant 0 erreur à l'utilisateur
-- Tableau de bord admin : Opérations CRUD complètes, import Tiqets, détection des doublons, analytics visiteurs
+**Architecture:**
+- Next.js 16 + React 19 + PostgreSQL
+- 40+ endpoints API + AI Gemini
+- Cache multi-niveaux, performance Lighthouse 94/100
+- VPS Linux + PM2 + GitHub Actions
 
-**[→ Voir le code](https://github.com/Rominaurdel/globymood) | [→ Démo en direct](https://globymood.com)**
+*Code source privé (disponible pour review en entretien)*
 
 ---
 
