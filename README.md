@@ -186,6 +186,5 @@ Portfolio moderne et responsive mettant en avant l'expertise full-stack avec ani
 
 ---
 
-## 📈 Statistiques GitHub
+![Open to work](https://img.shields.io/badge/🟢%20Open%20to%20work-Available-brightgreen?style=flat-square)
 
-![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rominaurdel&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9)
