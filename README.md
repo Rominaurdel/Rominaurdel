@@ -1,6 +1,6 @@
 # 👋 Romain Curdel — Développeur Full-Stack | Solutions IA
 
-**45 ans | 12+ ans d'expérience en web | Basé à Paris**
+**plus de 15 ans d'expérience en web | Basé à Paris**
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 📌 Projets Vedettes
+### 📌 Projets principaux
 
 #### 1. **[Globymood](https://globymood.com)** — Plateforme de Découverte Culturelle Alimentée par l'IA
 *Next.js 16 • React 19 • PostgreSQL • API Google Gemini • OSRM/Nominatim*
@@ -120,7 +120,7 @@ Portfolio moderne et responsive mettant en avant l'expertise full-stack avec ani
 
 ### 🚀 Ce que je développe actuellement
 
-- **Expansion de Globymood** : Expansion multi-villes (France entière)
+- **Expansion de Globymood** : Expansion multi-villes (monde entier), maintenant: Paris, Bordeux, New-York City
 - **Optimisation IA** : Augmenter le taux d'enrichissement de 60% → 90%+ via allocation quotas plus intelligente
 - **Automatisation Trading** : Algorithmes avancés pour trading de momentum
 - **Solutions E-Commerce** : Templates Medusa.js et consulting pour marques durables
