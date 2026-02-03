@@ -133,7 +133,7 @@ Portfolio moderne et responsive mettant en avant l'expertise full-stack avec ani
 |----------|--------|
 | **Années d'expérience** | 12+ (depuis 2010) |
 | **Déploiements production** | 50+ |
-| **Plateformes e-commerce** | 3+ (PrestaShop, Medusa.js) |
+| **Plateformes e-commerce** | 5+ (PrestaShop, Medusa.js, WordPress, natif) |
 | **Intégrations API** | 25+ |
 | **Qualité code** | 380+ types TypeScript, architecture modulaire |
 | **Performance** | Lighthouse moyenne 92/100 |
