@@ -1,172 +1,181 @@
-# 👋 Romain Curdel — Full-Stack Developer | AI-Powered Solutions
+# 👋 Romain Curdel — Développeur Full-Stack | Solutions IA
 
-**45 | 12+ years building production web applications | Paris-based**
-
----
-
-### 🎯 Core Expertise
-
-- **🛍️ E-Commerce Architectures** : Medusa.js, PrestaShop, headless design, Stripe/payment integration
-- **🤖 AI Integration** : Google Gemini API, LLM implementation, intelligent content generation
-- **🏗️ Full-Stack Development** : PHP/Symfony backend + Next.js/React frontend, TypeScript
-- **📊 Performance & Scalability** : PostgreSQL optimization, caching strategies, Docker, Linux VPS
-- **🎨 Modern Architecture** : Modular design, API-driven, multi-tenant systems, SaaS platforms
+**45 ans | 12+ ans d'expérience en web | Basé à Paris**
 
 ---
 
-### 💻 Tech Stack
+### 🎯 Expertise
 
-**Languages & Frameworks**
+- **🛍️ Architectures E-Commerce** : Medusa.js, PrestaShop, design headless, intégration Stripe/paiements
+- **🤖 Intégration IA** : API Google Gemini, implémentation LLM, génération de contenu intelligent
+- **🏗️ Développement Full-Stack** : Backend PHP/Symfony + Frontend Next.js/React, TypeScript
+- **📊 Performance & Scalabilité** : Optimisation PostgreSQL, stratégies de cache, Docker, VPS Linux
+- **🎨 Architecture Moderne** : Design modulaire, API-driven, systèmes multi-locataires, plateformes SaaS
+
+---
+
+### 💻 Stack Technologique
+
+**Langages & Frameworks**
 - **Backend** : PHP 8+, Node.js, Symfony 6+, Express, Medusa.js v2
 - **Frontend** : React, Next.js 16, Vue.js 3, Nuxt, TypeScript 5+, Tailwind CSS 4
-- **Databases** : PostgreSQL (expert-level optimization), MySQL
-- **DevOps** : Docker, Linux VPS, PM2, GitHub Actions, Cloudflare, Nginx
+- **Bases de données** : PostgreSQL (optimisation expert), MySQL
+- **DevOps** : Docker, VPS Linux, PM2, GitHub Actions, Cloudflare, Nginx
 
-**Specializations**
-- **Medusa.js E-Commerce** : Complete headless platforms, multi-language, Stripe integration
-- **AI-Powered Platforms** : Autonomous systems with Gemini API, prompt optimization
-- **Web Performance** : Lighthouse 90+, Core Web Vitals optimization, SSR/SSG strategies
-- **Modern Architecture** : Next.js App Router, Server Components, modular design patterns
-
----
-
-### 📌 Featured Projects
-
-#### 1. **[Globymood](https://globymood.com)** — AI-Powered Cultural Discovery Platform
-*Next.js 16 • React 19 • PostgreSQL • Google Gemini API • OSRM/Nominatim*
-
-Autonomous platform discovering Paris exhibitions with AI-enriched content and personalized recommendations.
-
-**Key Achievements:**
-- ✅ **85% complete** with 40+ API endpoints fully functional
-- ✅ **Autonomous system** : Auto-feeds via APIs, AI-enriches content, zero manual intervention
-- ✅ **Advanced features** : "Emotional Weather" mood-based recommendations, collaborative routes, restaurant matching
-- ✅ **Performance** : ~1,000 monthly visitors (organic search only), Lighthouse 94/100
-- ✅ **Architecture** : Modular services (DataManager, AIContentGenerator, TransportAPIs, EmotionalWeatherService)
-- ✅ **Multi-layer caching** : In-memory, HTTP, database query optimization
-- ✅ **Infrastructure** : VPS Linux + PM2, zero-cost deployment (free APIs only)
-
-**Tech Details:**
-- Integrates 5+ APIs : "Que Faire à Paris", Tiqets, Open-Meteo, OSRM, Nominatim, Gemini
-- Intelligent quota management : 40 Gemini requests/day with strategic allocation
-- Geo-spatial queries : PostgreSQL PostGIS for location-based recommendations
-- Fallback mechanisms : 3-tier routing system ensures 0 errors to users
-- Admin dashboard : Full CRUD operations, Tiqets import, duplicate detection, visitor analytics
-
-**[→ View Code](https://github.com/Rominaurdel/globymood) | [→ Live Demo](https://globymood.com)**
+**Spécialisations**
+- **E-Commerce Medusa.js** : Plateformes headless complètes, multilingue, intégration Stripe
+- **Plateformes Autonomes avec IA** : Systèmes autonomes avec API Gemini, optimisation des prompts
+- **Performance Web** : Lighthouse 90+, optimisation Core Web Vitals, stratégies SSR/SSG
+- **Architecture Moderne** : Next.js App Router, Server Components, patterns de design modulaire
 
 ---
 
-#### 2. **Emerald Grit CMS** — Sustainable E-Commerce Platform (Eco-Responsible Fashion)
-*Vue.js • Next.js • Medusa.js v2 • PostgreSQL • Stripe • Multi-language*
+### 📌 Projets Vedettes
 
-Complete headless e-commerce platform for sustainable fashion with environmental impact transparency.
+#### 1. **[Globymood](https://globymood.com)** — Plateforme de Découverte Culturelle Alimentée par l'IA
+*Next.js 16 • React 19 • PostgreSQL • API Google Gemini • OSRM/Nominatim*
 
-**Key Features:**
-- ✅ **Hierarchical product catalog** : 3-level category system with smart filtering
-- ✅ **Medusa.js integration** : Transactional CMS with inventory, subscriptions, multi-vendor
-- ✅ **Stripe payments** : Secure checkout, webhooks, multi-currency support
-- ✅ **Carbon calculator** : Personalized algorithms computing product environmental footprint
-- ✅ **Eco-score system** : 1-5 star rating with detailed sustainability metrics
-- ✅ **Multi-language** : 6 languages with auto-detection
-- ✅ **Intelligent search** : Real-time predictive suggestions, semantic search
-- ✅ **Admin dashboard** : Full product management, order tracking, analytics
+Plateforme autonome découvrant les expositions parisiennes avec contenu enrichi par l'IA et recommandations personnalisées.
+
+**Accomplissements clés:**
+- ✅ **85% complet** avec 40+ endpoints API entièrement fonctionnels
+- ✅ **Système autonome** : S'alimente automatiquement via APIs, enrichit le contenu avec l'IA, zéro intervention humaine
+- ✅ **Fonctionnalités avancées** : Recommandations basées sur la "Météo Émotionnelle", parcours collaboratifs, recommandations de restaurants
+- ✅ **Performance** : ~1 000 visiteurs mensuels (recherche organique uniquement), Lighthouse 94/100
+- ✅ **Architecture** : Services modulaires (DataManager, AIContentGenerator, TransportAPIs, EmotionalWeatherService)
+- ✅ **Cache multi-niveaux** : En mémoire, HTTP, optimisation des requêtes base de données
+- ✅ **Infrastructure** : VPS Linux + PM2, déploiement à coût zéro (APIs gratuites uniquement)
+
+**Détails techniques:**
+- Intègre 5+ APIs : "Que Faire à Paris", Tiqets, Open-Meteo, OSRM, Nominatim, Gemini
+- Gestion intelligente des quotas : 40 requêtes Gemini/jour avec allocation stratégique
+- Requêtes géo-spatiales : PostGIS PostgreSQL pour recommandations basées sur la localisation
+- Mécanismes de secours : Système de routage à 3 niveaux garantissant 0 erreur à l'utilisateur
+- Tableau de bord admin : Opérations CRUD complètes, import Tiqets, détection des doublons, analytics visiteurs
+
+**[→ Voir le code](https://github.com/Rominaurdel/globymood) | [→ Démo en direct](https://globymood.com)**
 
 ---
 
-#### 3. **Trading Analysis Platform** — Automated Financial Data Scraping
+#### 2. **Emerald Grit CMS** — Plateforme E-Commerce Durable (Mode Éco-Responsable)
+*Vue.js • Next.js • Medusa.js v2 • PostgreSQL • Stripe • Multilingue*
+
+Plateforme e-commerce headless complète pour la mode durable avec transparence sur l'impact environnemental.
+
+**Fonctionnalités clés:**
+- ✅ **Catalogue produits hiérarchisé** : Système 3 niveaux avec filtrage intelligent
+- ✅ **Intégration Medusa.js** : CMS transactionnel avec inventaire, abonnements, multi-vendeurs
+- ✅ **Paiements Stripe** : Checkout sécurisé, webhooks, support multi-devises
+- ✅ **Calculateur carbone** : Algorithmes personnalisés calculant l'empreinte environnementale
+- ✅ **Système éco-score** : Notation 1-5 étoiles avec métriques durabilité détaillées
+- ✅ **Multilingue** : 6 langues avec détection automatique
+- ✅ **Recherche intelligente** : Suggestions prédictives en temps réel, recherche sémantique
+- ✅ **Tableau de bord admin** : Gestion complète des produits, suivi des commandes, analytics
+
+**Architecture:**
+- Frontend Vue.js + Backend Next.js
+- Base de données PostgreSQL optimisée pour requêtes e-commerce
+- Stripe pour paiements sécurisés
+- Système de composants modulaire (49 services)
+- Pipeline CI/CD GitHub Actions
+
+---
+
+#### 3. **Plateforme d'Analyse Trading** — Web Scraping Financier Automatisé
 *PHP 8 • Symfony 7 • JavaScript • MySQL*
 
-Real-time stock market analysis platform with automated data scraping and technical indicators.
+Plateforme d'analyse temps réel du marché boursier avec scraping automatisé et indicateurs techniques.
 
-**Features:**
-- Real-time market data scraping (CAC40, Dow Jones, crypto)
-- Automated technical indicator calculation
-- MySQL historical data management
-- Buy/sell recommendations with transaction fee calculation
+**Fonctionnalités:**
+- Scraping temps réel de données boursières (CAC40, Dow Jones, crypto)
+- Calcul automatique d'indicateurs techniques
+- Gestion base de données MySQL pour historique
+- Recommandations achat/vente avec calcul de frais de transaction
+- Parsing de données depuis plusieurs sources (JSON, APIs)
 
 ---
 
-#### 4. **Job Scraping Automation Tool** — Windows Application
+#### 4. **Outil d'Automatisation Web Scraping** — Application Windows
 *C# / .NET 8 • WebView2 • Multi-threading*
 
-Windows desktop application for automated job offer scraping with intelligent filtering.
+Application desktop Windows pour scraping automatisé d'offres d'emploi avec filtrage intelligent.
 
-**Features:**
-- Multi-thread job offer extraction from Indeed
-- CAPTCHA detection & handling
-- Personalized CV generation (PDF)
-- Intelligent filtering and candidate management
+**Fonctionnalités:**
+- Extraction multi-thread d'offres depuis Indeed
+- Détection et gestion de CAPTCHA
+- Génération de CV personnalisés (PDF)
+- Filtrage intelligent et gestion des candidatures
+- Interface DataGridView pour gestion des offres
 
 ---
 
-#### 5. **eoloctopus.netlify.app** — Professional Portfolio
+#### 5. **eoloctopus.netlify.app** — Portfolio Professionnel
 *Next.js 14 • React • TypeScript • Tailwind CSS • Framer Motion*
 
-Modern, responsive portfolio showcasing full-stack expertise with smooth animations and contact system.
+Portfolio moderne et responsive mettant en avant l'expertise full-stack avec animations fluides et système de contact.
 
-**[→ View Portfolio](https://eoloctopus.netlify.app)**
-
----
-
-### 🚀 What I'm Building Now
-
-- **Expanding Globymood** : Multi-city expansion (France-wide)
-- **AI Optimization** : Increasing enrichment rate from 60% → 90%+ via smarter quota allocation
-- **Trading Automation** : Advanced algorithms for momentum trading
-- **E-Commerce Solutions** : Medusa.js templates & consulting for sustainable brands
+**[→ Voir le portfolio](https://eoloctopus.netlify.app)**
 
 ---
 
-### 📊 By The Numbers
+### 🚀 Ce que je développe actuellement
 
-| Metric | Value |
-|--------|-------|
-| **Years Experience** | 12+ (since 2010) |
-| **Production Deployments** | 50+ |
-| **E-Commerce Platforms** | 3+ (PrestaShop, Medusa.js) |
-| **API Integrations** | 25+ |
-| **Code Quality** | TypeScript 380+ types, modular architecture |
-| **Performance** | Lighthouse avg 92/100 |
+- **Expansion de Globymood** : Expansion multi-villes (France entière)
+- **Optimisation IA** : Augmenter le taux d'enrichissement de 60% → 90%+ via allocation quotas plus intelligente
+- **Automatisation Trading** : Algorithmes avancés pour trading de momentum
+- **Solutions E-Commerce** : Templates Medusa.js et consulting pour marques durables
 
 ---
 
-### 🏆 Key Strengths
+### 📊 Chiffres Clés
 
-✅ **Strategic Thinking** : Architecture-first approach, scalability from day 1  
-✅ **Full-Stack Mastery** : Frontend → Backend → DevOps → Database optimization  
-✅ **AI Integration** : Practical LLM implementation, cost optimization, smart caching  
-✅ **Autonomous Systems** : Building platforms that run without human intervention  
-✅ **Problem Solver** : Complex technical challenges (3-tier fallback, multi-modal routing, mood-based recommendations)  
-✅ **Code Quality** : TypeScript strict mode, modular services, comprehensive error handling  
+| Métrique | Valeur |
+|----------|--------|
+| **Années d'expérience** | 12+ (depuis 2010) |
+| **Déploiements production** | 50+ |
+| **Plateformes e-commerce** | 3+ (PrestaShop, Medusa.js) |
+| **Intégrations API** | 25+ |
+| **Qualité code** | 380+ types TypeScript, architecture modulaire |
+| **Performance** | Lighthouse moyenne 92/100 |
 
 ---
 
-### 🔗 Connect With Me
+### 🏆 Points Forts
 
-| Platform | Link |
-|----------|------|
+✅ **Pensée stratégique** : Approche architecture-first, scalabilité dès le départ  
+✅ **Maîtrise Full-Stack** : Frontend → Backend → DevOps → Optimisation base de données  
+✅ **Intégration IA** : Implémentation pratique LLM, optimisation coûts, cache intelligent  
+✅ **Systèmes Autonomes** : Construction de plateformes fonctionnant sans intervention humaine  
+✅ **Résolveur de problèmes** : Challenges techniques complexes (fallback 3-tiers, routage multi-modal, recommandations basées mood)  
+✅ **Qualité code** : Mode strict TypeScript, services modulaires, gestion d'erreurs complète  
+
+---
+
+### 🔗 Me Contacter
+
+| Plateforme | Lien |
+|-----------|------|
 | **LinkedIn** | [Romain Curdel](https://linkedin.com/in/romain-curdel) |
 | **Portfolio** | [eoloctopus.netlify.app](https://eoloctopus.netlify.app) |
 | **Email** | [romaincurdel@icloud.com](mailto:romaincurdel@icloud.com) |
 
 ---
 
-### 💼 Open to Opportunities
+### 💼 Ouvert aux Opportunités
 
-**Looking for:** Full-time senior roles, consulting, technical leadership positions  
-**Specialties:** E-Commerce, SaaS, AI Integration, Full-Stack Architecture  
-**Available:** Immediately
+**Recherchant:** Postes senior, consulting, postes de leadership technique  
+**Spécialités:** E-Commerce, SaaS, Intégration IA, Architecture Full-Stack  
+**Disponible:** Immédiatement
 
-**Ideal Roles:**
-- 🏢 **Senior Full-Stack Developer** (E-Commerce / SaaS focus)
-- 🤖 **AI Integration Engineer** (LLM, autonomous systems)
-- 🏗️ **Technical Architect** (Headless systems, microservices)
-- 📊 **Tech Lead** (E-Commerce platforms)
+**Rôles idéaux:**
+- 🏢 **Développeur Full-Stack Senior** (Focus E-Commerce / SaaS)
+- 🤖 **Ingénieur Intégration IA** (LLM, systèmes autonomes)
+- 🏗️ **Architecte Technique** (Systèmes headless, microservices)
+- 📊 **Tech Lead** (Plateformes e-commerce)
 
 ---
 
-### 🎯 Featured Skills
+### 🎯 Compétences principales
 - Full-Stack : Next.js - React - Node.js - PHP - Symfony - TypeScript
 - E-Commerce : Medusa.js - PrestaShop - Stripe - Payment systems
 - AI/LLM : Google Gemini - Prompt engineering - Autonomous content generation
@@ -174,6 +183,3 @@ Modern, responsive portfolio showcasing full-stack expertise with smooth animati
 - DevOps : Docker - Linux VPS - PM2 - GitHub Actions - Cloudflare
 - Architecture : Modular design - API-driven - Scalable systems - Microservices
 ---
-
-**Last updated:** February 3, 2026  
-**Current focus:** AI-powered autonomous systems & sustainable e-commerce
