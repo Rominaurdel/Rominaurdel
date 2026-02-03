@@ -111,7 +111,7 @@ Portfolio moderne et responsive mettant en avant l'expertise full-stack avec ani
 
 ### 🚀 Ce que je développe actuellement
 
-- **Expansion de Globymood** : Expansion multi-villes (monde entier), maintenant: Paris, Bordeux, New-York City
+- **Expansion de Globymood** : Expansion multi-villes (monde entier), maintenant: Paris, Bordeaux, New-York City
 - **Optimisation IA** : Augmenter le taux d'enrichissement de 60% → 90%+ via allocation quotas plus intelligente
 - **Automatisation Trading** : Algorithmes avancés pour trading de momentum
 - **Solutions E-Commerce** : Templates Medusa.js et consulting pour marques durables
@@ -148,7 +148,6 @@ Portfolio moderne et responsive mettant en avant l'expertise full-stack avec ani
 |-----------|------|
 | **LinkedIn** | [Romain Curdel](https://linkedin.com/in/romain-curdel) |
 | **Portfolio** | [eoloctopus.netlify.app](https://eoloctopus.netlify.app) |
-| **Email** | [romaincurdel@icloud.com](mailto:romaincurdel@icloud.com) |
 
 ---
 
