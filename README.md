@@ -167,12 +167,12 @@ Modern, responsive portfolio showcasing full-stack expertise with smooth animati
 ---
 
 ### 🎯 Featured Skills
-🔹 Full-Stack : Next.js - React - Node.js - PHP - Symfony - TypeScript
-🔹 E-Commerce : Medusa.js - PrestaShop - Stripe - Payment systems
-🔹 AI/LLM : Google Gemini - Prompt engineering - Autonomous content generation
-🔹 Databases : PostgreSQL optimization - Complex queries - Multi-tenant design
-🔹 DevOps : Docker - Linux VPS - PM2 - GitHub Actions - Cloudflare
-🔹 Architecture : Modular design - API-driven - Scalable systems - Microservices
+- Full-Stack : Next.js - React - Node.js - PHP - Symfony - TypeScript
+- E-Commerce : Medusa.js - PrestaShop - Stripe - Payment systems
+- AI/LLM : Google Gemini - Prompt engineering - Autonomous content generation
+- Databases : PostgreSQL optimization - Complex queries - Multi-tenant design
+- DevOps : Docker - Linux VPS - PM2 - GitHub Actions - Cloudflare
+- Architecture : Modular design - API-driven - Scalable systems - Microservices
 ---
 
 **Last updated:** February 3, 2026  
