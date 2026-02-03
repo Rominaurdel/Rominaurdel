@@ -183,3 +183,9 @@ Portfolio moderne et responsive mettant en avant l'expertise full-stack avec ani
 - DevOps : Docker - Linux VPS - PM2 - GitHub Actions - Cloudflare
 - Architecture : Modular design - API-driven - Scalable systems - Microservices
 ---
+
+---
+
+## 📈 Statistiques GitHub
+
+![Romain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rominaurdel&show_icons=true&theme=dark&bg_color=1a1b27&title_color=58a6ff&text_color=c9d1d9)
