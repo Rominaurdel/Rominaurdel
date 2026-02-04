@@ -118,6 +118,13 @@ Portfolio moderne et responsive mettant en avant l'expertise full-stack avec ani
 
 ---
 
+### 🧩 Projets open-source
+
+- **[JobAssist — Agent IA d’adaptation de CV](https://github.com/Rominaurdel/jobassist)**  
+  Outil Python qui adapte automatiquement un CV à une offre d’emploi à l’aide de Perplexity et Google Gemini (analyse de l’offre, réécriture du CV, scoring de pertinence).
+
+---
+
 ### 📊 Chiffres Clés
 
 | Métrique | Valeur |
